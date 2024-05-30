@@ -12,7 +12,11 @@ https://youtu.be/d2kxUVwWWwU?feature=shared
 
 ## SQL
 https://youtu.be/hlGoQC332VM?feature=shared
+
+
 https://youtu.be/qlkS-e5ym1w?feature=shared
+
+
 https://www.youtube.com/@ankitbansal6
 
 ## Articles
