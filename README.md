@@ -5,18 +5,18 @@
 
 
 ## Machine Learning
-https://youtu.be/JxgmHe2NyeY?feature=shared
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/JxgmHe2NyeY?feature=shared)
 
 ## Deep Learning
-https://youtu.be/d2kxUVwWWwU?feature=shared
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/d2kxUVwWWwU?feature=shared)
 
 ## SQL
-https://youtu.be/hlGoQC332VM?feature=shared
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/hlGoQC332VM?feature=shared)
 
 
-https://youtu.be/qlkS-e5ym1w?feature=shared
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/qlkS-e5ym1w?feature=shared)
 
 
-https://www.youtube.com/@ankitbansal6
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/@ankitbansal6)
 
 ## Articles
