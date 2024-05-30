@@ -1,7 +1,7 @@
 # Welcome to my collection of Resources
 
 ## Python
-https://youtu.be/ERCMXc8x7mc?feature=shared
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/ERCMXc8x7mc?feature=shared)
 
 
 ## Machine Learning
