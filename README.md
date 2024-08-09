@@ -20,3 +20,4 @@
 - SQL Tricks [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/@ankitbansal6)
 
 ## Articles
+[Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python ](https://github.com/Arshapjoy/Resource-Collection/blob/main/Statistical%20Methods%20for%20Machine%20Learning%20Discover%20How%20to%20Transform%20Data%20into%20Knowledge%20with%20Python%20(Jason%20Brownlee).pdf)
