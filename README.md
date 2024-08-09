@@ -19,7 +19,7 @@
 
 - SQL Tricks [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/@ankitbansal6)
 
-## Articles
+## E-Books
 - [Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python ](https://github.com/Arshapjoy/Resource-Collection/blob/main/Statistical%20Methods%20for%20Machine%20Learning%20Discover%20How%20to%20Transform%20Data%20into%20Knowledge%20with%20Python%20(Jason%20Brownlee).pdf)
 
 - [Master Machine Learning Algorithms Discover How They Work and Implement Them From Scratch ](https://github.com/Arshapjoy/Resource-Collection/blob/main/Master%20Machine%20Learning%20Algorithms%20Discover%20How%20They%20Work%20and%20Implement%20Them%20From%20Scratch%20(Jason%20Brownlee).pdf)
