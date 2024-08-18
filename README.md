@@ -40,6 +40,8 @@
 
 - [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://github.com/Arshapjoy/Resource-Collection/blob/main/Deep%20Learning%20for%20Time%20Series%20Forecasting%20-%20Predict%20the%20Future%20with%20MLPs%2C%20CNNs%20and%20LSTMs%20in%20Python%20(Jason%20Brownlee).pdf)
 
+- [Hands On Machine Learning with Scikit Learn and TensorFlow.pdf](https://github.com/Arshapjoy/Resource-Collection/blob/main/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+
 
 
 
