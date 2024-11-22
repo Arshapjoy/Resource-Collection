@@ -42,6 +42,8 @@
 
 - [Hands On Machine Learning with Scikit Learn and TensorFlow.pdf](https://github.com/Arshapjoy/Resource-Collection/blob/main/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 
+- [Virtual Environment.pdf](https://github.com/Arshapjoy/Resource-Collection/blob/main/Virtual%20Environment.pdf)
+
 
 
 
